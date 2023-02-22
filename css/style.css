@@ -161,6 +161,10 @@ button {
         align-items: center;
     }
 
+    picture img {
+        width: fit-content;
+    }
+
     .main {
         background-color: var(--MAIN-BGCOLOR);
         padding: 20px;
