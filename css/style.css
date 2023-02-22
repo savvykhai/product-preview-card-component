@@ -27,20 +27,6 @@ button {
     margin-right: 30px;
 }
 
-/* || ULTILITY CLASSES */
-.nowrap {
-    white-space: nowrap;
-}
-
-.center {
-    text-align: center;
-}
-
-.offscreen {
-    position: absolute;
-    left: -10000px;
-}
-
 /* VARIABLES */
 :root {
     --BODY-BGCOLOR: hsl(30, 38%, 92%);
@@ -65,13 +51,10 @@ body {
     align-items: center;
     box-shadow: 2px 2px 5px -5px #f5f5f5;
     background-color: var(--BODY-BGCOLOR);
-    width: auto;
 }
 
 /* MAIN */
 .header__img {
-    height: 230px;
-    /* width: 400px; */
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
@@ -180,7 +163,6 @@ button {
         border-top-right-radius: 0;
         border-bottom-right-radius: 0;
         height: 400px;
-        margin: 0;
     }
 
     .break::before {
