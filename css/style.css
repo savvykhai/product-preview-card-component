@@ -196,3 +196,16 @@ button {
         font-size: 0.65rem;
     }
 }
+
+.footer {
+    background-color: var(--MAIN-BGCOLOR);
+    position: fixed;
+    bottom: 0;
+    color: hsl(228, 45%, 44%);
+    font-size: 11px;
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+    box-shadow: 2px 2px 5px #000;
+
+}
