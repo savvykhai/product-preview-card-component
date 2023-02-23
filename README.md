@@ -8,7 +8,7 @@
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/savvykhai/product-preview-card-component.git)
-- Live Site URL: [live Site URL](https://product-preview-card-component-gxhntauy8-savvykhai.vercel.app)
+- Live Site URL: [live Site URL](https://product-preview-card-component-7efqshxc4-savvykhai.vercel.app)
 
 ### Built with
 
